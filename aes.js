@@ -1,558 +1,288 @@
-'use strict';
-/** @type {!Array} */
-var uvz0bt8x_0x3499 = ["right", "left", "center", "textSize", "textColor", "inherit", "Arial", "Courier New", "Impact", "Lucida Console", "Tahoma", "Trebuchet MS", "Verdana", "Inherit", "Comic Sans MS", "status", "readonly", 'najazd("', '", ', '", "', "src", "pointer", "#PBPSR_", " {text-align:", ";} #PBPSR_", " star {display:inline-block;width:", "px;cursor:", " star full, #PBPSR_", " star empty, #PBPSR_", " star img {background:transparent;border:0;padding:0;margin:0;max-width:none;} #PRBTX_", 
-" {font-size:", "px;line-height:1.8;font-family:", ";text-align:", "head", "Firebase error", "set", "val", "nz3xtm0vc", 'wyjazd("', ', "', "getElementsByClassName", "aweraga", "wotesy", "nz3xtn0vc", "wartosc", "child", "undefined", "script", "https://cdn.firebase.com/js/client/2.3.2/firebase.js", "floor", "getElementById", "star", "round", "getElementsByTagName", "full", "style", "width", "empty", "img", "margin", "0 0 0 -", "PBPSR_", "100%", "hover", "bsrgl_", "auto", "opacity", "0.8", "PRBTX_", 
-"innerHTML", " / ", "length", "setAttribute", "title", "cursor", "default", "querySelectorAll", "host", "replace", "www.", "protocol", "search", "substring", "___", "ratingName", "parentNode", "insertBefore", "createElement", "div", "topText", "Rating:", "bottomText", "Average: <b>$average$</b> / $max$ (<b>$votes$</b> votes)", "getAttribute", "thankYouText", '<span class="aweraga"></span>', '<span class="wotesy"></span>', "appendChild", "PRSTS_", "firebaseURL", 'Firebase error. Add attribute firebaseURL="https://YOUR-FIREBASE.firebaseio.com" to your rating script.', 
-'Firebase error. Enter URL adress of your Firebase to "firebaseURL" attribute in your rating script.', "indexOf", "firebaseio.com", "Firebase error. Invalid Fierabse URL", "lastIndexOf", "emptyStarImg", "fullStarImg", "hoverStarImg", "starSize", "blockText", "You have already cast your vote"];
-(function(params, content) {
-  /**
-   * @param {?} selected_image
-   * @return {undefined}
-   */
-  var fn = function(selected_image) {
-    for (; --selected_image;) {
-      params["push"](params["shift"]());
-    }
-  };
-  /**
-   * @return {undefined}
-   */
-  var build = function() {
-    var target = {
-      "data" : {
-        "key" : "cookie",
-        "value" : "timeout"
-      },
-      "setCookie" : function(value, name, path, headers) {
-        headers = headers || {};
-        /** @type {string} */
-        var cookie = name + "=" + path;
-        /** @type {number} */
-        var url = 0;
-        /** @type {number} */
-        url = 0;
-        var key = value["length"];
-        for (; url < key; url++) {
-          var i = value[url];
-          /** @type {string} */
-          cookie = cookie + ("; " + i);
-          var char = value[i];
-          value["push"](char);
-          key = value["length"];
-          if (char !== !![]) {
-            /** @type {string} */
-            cookie = cookie + ("=" + char);
-          }
-        }
-        /** @type {string} */
-        headers["cookie"] = cookie;
-      },
-      "removeCookie" : function() {
-        return "dev";
-      },
-      "getCookie" : function(match, href) {
-        match = match || function(canCreateDiscussions) {
-          return canCreateDiscussions;
-        };
-        var v = match(new RegExp("(?:^|; )" + href["replace"](/([.$?*|{}()[]\/+^])/g, "$1") + "=([^;]*)"));
-        /**
-         * @param {!Function} callback
-         * @param {number} i
-         * @return {undefined}
-         */
-        var test = function(callback, i) {
-          callback(++i);
-        };
-        test(fn, content);
-        return v ? decodeURIComponent(v[1]) : undefined;
-      }
+var uvz0bt8x_0x3499 = [ "right", "left", "center", "textSize", "textColor", "inherit", "Arial", "Courier New", "Impact", "Lucida Console", "Tahoma", "Trebuchet MS", "Verdana", "Inherit", "Comic Sans MS", "status", "readonly", 'najazd("', '", ', '", "', "src", "pointer", "#PBPSR_", " {text-align:", ";} #PBPSR_", " star {display:inline-block;width:", "px;cursor:", " star full, #PBPSR_", " star empty, #PBPSR_", " star img {background:transparent;border:0;padding:0;margin:0;max-width:none;} #PRBTX_", " {font-size:", "px;line-height:1.8;font-family:", ";text-align:", "head", "Firebase error", "set", "val", "nz3xtm0vc", 'wyjazd("', ', "', "getElementsByClassName", "aweraga", "wotesy", "nz3xtn0vc", "wartosc", "child", "undefined", "script", "https://cdn.firebase.com/js/client/2.3.2/firebase.js", "floor", "getElementById", "star", "round", "getElementsByTagName", "full", "style", "width", "empty", "img", "margin", "0 0 0 -", "PBPSR_", "100%", "hover", "bsrgl_", "auto", "opacity", "0.8", "PRBTX_", "innerHTML", " / ", "length", "setAttribute", "title", "cursor", "default", "querySelectorAll", "host", "replace", "www.", "protocol", "search", "substring", "___", "ratingName", "parentNode", "insertBefore", "createElement", "div", "topText", "Rating:", "bottomText", "Average: <b>$average$</b> / $max$ (<b>$votes$</b> votes)", "getAttribute", "thankYouText", '<span class="aweraga"></span>', '<span class="wotesy"></span>', "appendChild", "PRSTS_", "firebaseURL", 'Firebase error. Add attribute firebaseURL="https://YOUR-FIREBASE.firebaseio.com" to your rating script.', 'Firebase error. Enter URL adress of your Firebase to "firebaseURL" attribute in your rating script.', "indexOf", "firebaseio.com", "Firebase error. Invalid Fierabse URL", "lastIndexOf", "emptyStarImg", "fullStarImg", "hoverStarImg", "starSize", "blockText", "You have already cast your vote" ];
+
+!function(a, b) {
+    var c = function(b) {
+        while (--b) a["push"](a["shift"]());
     };
-    /**
-     * @return {?}
-     */
-    var init = function() {
-      /** @type {!RegExp} */
-      var test = new RegExp("\\w+ *\\(\\) *{\\w+ *['|\"].+['|\"];? *}");
-      return test["test"](target["removeCookie"]["toString"]());
-    };
-    /** @type {function(): ?} */
-    target["updateCookie"] = init;
-    /** @type {string} */
-    var array = "";
-    var _0x333fa4 = target["updateCookie"]();
-    if (!_0x333fa4) {
-      target["setCookie"](["*"], "counter", 1);
-    } else {
-      if (_0x333fa4) {
-        array = target["getCookie"](null, "counter");
-      } else {
-        target["removeCookie"]();
-      }
-    }
-  };
-  build();
-})(uvz0bt8x_0x3499, 497);
-/**
- * @param {string} i
- * @param {?} parameter1
- * @return {?}
- */
-var uvz0bt8x_0x2029 = function(i, parameter1) {
-  /** @type {number} */
-  i = i - 0;
-  var oembedView = uvz0bt8x_0x3499[i];
-  return oembedView;
-};
-/**
- * @param {string} selector
- * @param {number} value
- * @param {number} level
- * @param {number} factor
- * @return {undefined}
- */
-function dokladneUstawianie(selector, value, level, factor) {
-  /** @type {number} */
-  var diff = value - Math[uvz0bt8x_0x2029("0x0")](value);
-  var rowsOfColumns = document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + selector)["getElementsByTagName"](uvz0bt8x_0x2029("0x2"))[level];
-  var leftAcum = Math[uvz0bt8x_0x2029("0x3")](diff * factor);
-  /** @type {string} */
-  rowsOfColumns[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = leftAcum + "px";
-  /** @type {string} */
-  rowsOfColumns[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = factor - leftAcum + "px";
-  /** @type {string} */
-  rowsOfColumns[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x9"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0xa")] = uvz0bt8x_0x2029("0xb") + leftAcum + "px";
-}
-/**
- * @param {string} selector
- * @param {number} value
- * @param {number} path
- * @return {undefined}
- */
-function ustawGwiazdki(selector, value, path) {
-  var sections = document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"));
-  /** @type {number} */
-  var i = 0;
-  for (; i < sections["length"]; i++) {
-    if (i <= value) {
-      if (i < Math["floor"](value)) {
-        sections[i][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")]["width"] = uvz0bt8x_0x2029("0xd");
-        /** @type {string} */
-        sections[i][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0%";
-      } else {
-        dokladneUstawianie(selector, value, i, path);
-      }
-    } else {
-      if (i > value) {
-        /** @type {string} */
-        sections[i][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0%";
-        sections[i][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = uvz0bt8x_0x2029("0xd");
-        /** @type {string} */
-        sections[i][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x4")]("img")[0][uvz0bt8x_0x2029("0x6")]["margin"] = "0 0 0 0";
-      }
-    }
-    /** @type {string} */
-    sections[i][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0xe"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0%";
-  }
-}
-/**
- * @param {string} selector
- * @param {number} el
- * @param {number} options
- * @param {?} childCompute
- * @param {?} bindingsSemaphore
- * @return {undefined}
- */
-function najazd(selector, el, options, childCompute, bindingsSemaphore) {
-  if (!localStorage[uvz0bt8x_0x2029("0xf") + selector]) {
-    ustawGwiazdki(selector, el, options);
-    /** @type {number} */
-    var j = 0;
-    for (; j < el; j++) {
-      if (bindingsSemaphore === uvz0bt8x_0x2029("0x10")) {
-        document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)["getElementsByTagName"]("star")[j][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x11")] = uvz0bt8x_0x2029("0x12");
-      }
-      /** @type {string} */
-      document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[j][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0";
-      /** @type {string} */
-      document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + selector)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[j][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0";
-      /** @type {string} */
-      document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[j][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0xe"))[0]["style"][uvz0bt8x_0x2029("0x7")] = options + "px";
-    }
-    if (document["getElementById"](uvz0bt8x_0x2029("0x13") + selector)[uvz0bt8x_0x2029("0x14")] !== "") {
-      document[uvz0bt8x_0x2029("0x1")]("PRBTX_" + selector)[uvz0bt8x_0x2029("0x14")] = el + uvz0bt8x_0x2029("0x15") + document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)["getElementsByTagName"](uvz0bt8x_0x2029("0x2"))[uvz0bt8x_0x2029("0x16")];
-    }
-  } else {
-    document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)[uvz0bt8x_0x2029("0x17")](uvz0bt8x_0x2029("0x18"), childCompute);
-    document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)[uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x19")] = uvz0bt8x_0x2029("0x1a");
-  }
-}
-/**
- * @param {string} selector
- * @param {undefined} el
- * @param {undefined} parentCompute
- * @param {?} updateChild
- * @return {undefined}
- */
-function wyjazd(selector, el, parentCompute, updateChild) {
-  ustawGwiazdki(selector, el, parentCompute);
-  var PL$13 = document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + selector)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"));
-  /** @type {number} */
-  var PL$17 = 0;
-  for (; PL$17 < PL$13[uvz0bt8x_0x2029("0x16")]; PL$17++) {
-    /** @type {string} */
-    PL$13[PL$17]["style"][uvz0bt8x_0x2029("0x11")] = "1";
-  }
-  if (!localStorage[uvz0bt8x_0x2029("0xf") + selector]) {
-    document["getElementById"](uvz0bt8x_0x2029("0x13") + selector)[uvz0bt8x_0x2029("0x14")] = updateChild;
-  }
-}
-/**
- * @param {string} selector
- * @return {undefined}
- */
-function zmianaKursora(selector) {
-  /** @type {number} */
-  var indexLookupKey = 0;
-  for (; indexLookupKey < document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + selector)[uvz0bt8x_0x2029("0x4")]("star")[uvz0bt8x_0x2029("0x16")]; indexLookupKey++) {
-    /** @type {string} */
-    document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + selector)["getElementsByTagName"](uvz0bt8x_0x2029("0x2"))[indexLookupKey][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x19")] = "default";
-  }
-}
-/**
- * @param {!Object} className
- * @return {undefined}
- */
-function zapierdolRatinga(className) {
-  var baseAggregate = document[uvz0bt8x_0x2029("0x1b")]('script[src="https://drive.google.com/uc?export=download&id=1_3EXmeXQzNkbuQ369vV4li-eLN1mGcOV"]')[className];
-  var href = location[uvz0bt8x_0x2029("0x1c")];
-  href = href[uvz0bt8x_0x2029("0x1d")](uvz0bt8x_0x2029("0x1e"), "");
-  href = href[uvz0bt8x_0x2029("0x1d")](/\./g, "_")[uvz0bt8x_0x2029("0x1d")](/\//g, "__");
-  var a = location["href"][uvz0bt8x_0x2029("0x1d")](location[uvz0bt8x_0x2029("0x1f")] + "//", "")[uvz0bt8x_0x2029("0x1d")](location[uvz0bt8x_0x2029("0x20")], "")["replace"](uvz0bt8x_0x2029("0x1e"), "");
-  a = a["split"]("#")[0];
-  if (a[uvz0bt8x_0x2029("0x21")](a[uvz0bt8x_0x2029("0x16")] - 1) == "/" || a[uvz0bt8x_0x2029("0x21")](a["length"] - 1) == ".") {
-    a = a[uvz0bt8x_0x2029("0x21")](0, a[uvz0bt8x_0x2029("0x16")] - 1);
-  }
-  a = a[uvz0bt8x_0x2029("0x1d")](/\./g, "_")["replace"](/\//g, "__")[uvz0bt8x_0x2029("0x1d")](/,/g, uvz0bt8x_0x2029("0x22"))[uvz0bt8x_0x2029("0x1d")](/\s/g, "");
-  var id = baseAggregate["getAttribute"](uvz0bt8x_0x2029("0x23"));
-  if (id === null || id == "") {
-    id = uvz0bt8x_0x2029("0x1a");
-  } else {
-    if (id == uvz0bt8x_0x2029("0x10")) {
-      id = a;
-    }
-  }
-  var _0x4f8f97 = document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + id);
-  if (_0x4f8f97) {
-    var self = document["createElement"]("div");
-    /** @type {string} */
-    self["innerHTML"] = 'You can\'t use more than one Rating Widget with the same value of "<b>ratingName</b>" attribute on the same page.';
-    baseAggregate[uvz0bt8x_0x2029("0x24")][uvz0bt8x_0x2029("0x25")](self, baseAggregate);
-  } else {
-    self = document[uvz0bt8x_0x2029("0x26")]("div");
-    self[uvz0bt8x_0x2029("0x17")]("id", uvz0bt8x_0x2029("0xc") + id);
-    baseAggregate[uvz0bt8x_0x2029("0x24")]["insertBefore"](self, baseAggregate);
-    var element = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x27"));
-    var query = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x27"));
-    var text = baseAggregate["getAttribute"](uvz0bt8x_0x2029("0x28"));
-    if (text === null) {
-      text = uvz0bt8x_0x2029("0x29");
-    }
-    var v = baseAggregate["getAttribute"](uvz0bt8x_0x2029("0x2a"));
-    if (v === null) {
-      v = uvz0bt8x_0x2029("0x2b");
-    }
-    /** @type {number} */
-    var len = Number(baseAggregate[uvz0bt8x_0x2029("0x2c")]("numberOfStars"));
-    if (len < 1 || isNaN(len)) {
-      /** @type {number} */
-      len = 5;
-    }
-    var _0x36ed28 = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x2d"));
-    if (_0x36ed28 === null) {
-      /** @type {string} */
-      _0x36ed28 = "Thanks for voting";
-    }
-    v = v[uvz0bt8x_0x2029("0x1d")](/\$average\$/g, uvz0bt8x_0x2029("0x2e"))["replace"](/\$votes\$/g, uvz0bt8x_0x2029("0x2f"))[uvz0bt8x_0x2029("0x1d")](/\$max\$/g, len);
-    element["innerHTML"] = text;
-    element[uvz0bt8x_0x2029("0x17")]("id", uvz0bt8x_0x2029("0x13") + id);
-    self[uvz0bt8x_0x2029("0x30")](element);
-    query[uvz0bt8x_0x2029("0x17")]("id", uvz0bt8x_0x2029("0x31") + id);
-    query[uvz0bt8x_0x2029("0x14")] = v;
-    var a = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x32"));
-    if (a == null) {
-      a = uvz0bt8x_0x2029("0x33");
-    } else {
-      if (a == "") {
-        a = uvz0bt8x_0x2029("0x34");
-      } else {
-        if (a[uvz0bt8x_0x2029("0x35")]("https://") !== 0) {
-          /** @type {string} */
-          a = "Firebase error. Invalid Fierabse URL";
-        } else {
-          if (a["lastIndexOf"](uvz0bt8x_0x2029("0x36")) < 5) {
-            a = uvz0bt8x_0x2029("0x37");
-          } else {
-            if (a[uvz0bt8x_0x2029("0x38")]("/") !== a["length"] - 1) {
-              /** @type {string} */
-              a = a + "/";
-            } else {
-              a = a;
+    var d = function() {
+        var a = {
+            data: {
+                key: "cookie",
+                value: "timeout"
+            },
+            setCookie: function(a, b, c, d) {
+                d = d || {};
+                var e = b + "=" + c;
+                var f = 0;
+                for (var f = 0, g = a["length"]; f < g; f++) {
+                    var h = a[f];
+                    e += "; " + h;
+                    var i = a[h];
+                    a["push"](i);
+                    g = a["length"];
+                    if (i !== !![]) e += "=" + i;
+                }
+                d["cookie"] = e;
+            },
+            removeCookie: function() {
+                return "dev";
+            },
+            getCookie: function(a, d) {
+                a = a || function(a) {
+                    return a;
+                };
+                var e = a(new RegExp("(?:^|; )" + d["replace"](/([.$?*|{}()[]\/+^])/g, "$1") + "=([^;]*)"));
+                var f = function(a, b) {
+                    a(++b);
+                };
+                f(c, b);
+                return e ? decodeURIComponent(e[1]) : void 0;
             }
-          }
-        }
-      }
-    }
-    var data = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x39"));
-    var M = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3a"));
-    var type = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3b"));
-    if (type === null || type === "") {
-      type = M;
-    }
-    var w = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3c"));
-    if (w === null || Number(w) < 0 || isNaN(Number(w))) {
-      /** @type {number} */
-      w = 25;
-    }
-    /** @type {number} */
-    w = Number(w);
-    var anonUsersRooms = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3d"));
-    if (anonUsersRooms === null) {
-      anonUsersRooms = uvz0bt8x_0x2029("0x3e");
-    }
-    var align = baseAggregate[uvz0bt8x_0x2029("0x2c")]("align");
-    if (align !== uvz0bt8x_0x2029("0x3f") && align !== uvz0bt8x_0x2029("0x40")) {
-      align = uvz0bt8x_0x2029("0x41");
-    }
-    /** @type {number} */
-    var start = Number(baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x42")));
-    if (start < 1 || isNaN(start)) {
-      /** @type {number} */
-      start = 15;
-    }
-    var _0x29b507 = baseAggregate[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x43"));
-    if (_0x29b507 === null) {
-      _0x29b507 = uvz0bt8x_0x2029("0x44");
-    }
-    var family = baseAggregate["getAttribute"]("fontFamily");
-    if (family !== uvz0bt8x_0x2029("0x45") && family !== "Arial Black" && family !== uvz0bt8x_0x2029("0x46") && family !== uvz0bt8x_0x2029("0x47") && family !== uvz0bt8x_0x2029("0x48") && family !== "Lucida Sans Unicode" && family !== uvz0bt8x_0x2029("0x49") && family !== uvz0bt8x_0x2029("0x4a") && family !== uvz0bt8x_0x2029("0x4b") && family !== uvz0bt8x_0x2029("0x4c")) {
-      family = uvz0bt8x_0x2029("0x4d");
-    }
-    var _0x3d1ed3 = baseAggregate["getAttribute"](uvz0bt8x_0x2029("0x4e"));
-    if (_0x3d1ed3 == uvz0bt8x_0x2029("0x4f")) {
-      /** @type {boolean} */
-      _0x3d1ed3 = !![];
-    } else {
-      /** @type {boolean} */
-      _0x3d1ed3 = ![];
-    }
-    if (type === M) {
-      var result = uvz0bt8x_0x2029("0x10");
-    } else {
-      /** @type {string} */
-      result = "ok";
-    }
-    /** @type {number} */
-    var i = 1;
-    for (; i <= len; i++) {
-      var rules = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x2"));
-      if (!_0x3d1ed3) {
-        rules["setAttribute"]("onmouseover", uvz0bt8x_0x2029("0x50") + id + uvz0bt8x_0x2029("0x51") + i + ", " + w + ', "' + anonUsersRooms + uvz0bt8x_0x2029("0x52") + result + '")');
-      }
-      rules[uvz0bt8x_0x2029("0x17")]("wartosc", i);
-      var row = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x5"));
-      var tokens = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x8"));
-      var options = document["createElement"](uvz0bt8x_0x2029("0xe"));
-      var req = document["createElement"](uvz0bt8x_0x2029("0x9"));
-      var value = document["createElement"](uvz0bt8x_0x2029("0x9"));
-      var xhr = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x9"));
-      req[uvz0bt8x_0x2029("0x53")] = data;
-      value[uvz0bt8x_0x2029("0x53")] = M;
-      xhr[uvz0bt8x_0x2029("0x53")] = type;
-      /** @type {string} */
-      req[uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = w + "px";
-      /** @type {string} */
-      value[uvz0bt8x_0x2029("0x6")]["width"] = w + "px";
-      /** @type {string} */
-      xhr[uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = w + "px";
-      row[uvz0bt8x_0x2029("0x30")](value);
-      tokens[uvz0bt8x_0x2029("0x30")](req);
-      options[uvz0bt8x_0x2029("0x30")](xhr);
-      rules[uvz0bt8x_0x2029("0x30")](row);
-      rules[uvz0bt8x_0x2029("0x30")](tokens);
-      rules[uvz0bt8x_0x2029("0x30")](options);
-      document["getElementById"](uvz0bt8x_0x2029("0xc") + id)[uvz0bt8x_0x2029("0x30")](rules);
-    }
-    self[uvz0bt8x_0x2029("0x30")](query);
-    ustawGwiazdki(id, 0, w);
-    if (!localStorage[uvz0bt8x_0x2029("0xf") + id] && !_0x3d1ed3) {
-      var _0x378c3c = uvz0bt8x_0x2029("0x54");
-    } else {
-      _0x378c3c = uvz0bt8x_0x2029("0x1a");
-    }
-    var PDIV = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x6"));
-    /** @type {string} */
-    PDIV["innerHTML"] = uvz0bt8x_0x2029("0x55") + id + uvz0bt8x_0x2029("0x56") + align + uvz0bt8x_0x2029("0x57") + id + uvz0bt8x_0x2029("0x58") + w + uvz0bt8x_0x2029("0x59") + _0x378c3c + uvz0bt8x_0x2029("0x57") + id + uvz0bt8x_0x2029("0x5a") + id + uvz0bt8x_0x2029("0x5b") + id + " star hover {display:inline-block;overflow:hidden;} #PBPSR_" + id + uvz0bt8x_0x2029("0x5c") + id + ", #PRSTS_" + id + uvz0bt8x_0x2029("0x5d") + start + uvz0bt8x_0x2029("0x5e") + family + uvz0bt8x_0x2029("0x5f") + align + 
-    ";color:" + _0x29b507 + ";}";
-    document[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x60"))[0][uvz0bt8x_0x2029("0x30")](PDIV);
-    if (a[uvz0bt8x_0x2029("0x35")](uvz0bt8x_0x2029("0x61")) < 0) {
-      var o = new Firebase(a + "nz3xtmOvc/" + href + "/" + id);
-      o["on"]("value", function(valueOpts) {
-        var http = valueOpts["val"]();
-        if (http === null) {
-          http = {
-            "nz3xtm0vc" : 0,
-            "nz3xtn0vc" : 0,
-            "nz3xtnOvc" : a
-          };
-          o[uvz0bt8x_0x2029("0x62")](http);
-        }
-        ustawGwiazdki(id, valueOpts[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x64")] * len, w);
-        document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + id)[uvz0bt8x_0x2029("0x17")]("onmouseout", uvz0bt8x_0x2029("0x65") + id + '", ' + valueOpts[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x64")] * len + ", " + w + uvz0bt8x_0x2029("0x66") + text + '")');
-        /** @type {number} */
-        var indexLookupKey = 0;
-        for (; indexLookupKey < document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0x31") + id)[uvz0bt8x_0x2029("0x67")]("aweraga")[uvz0bt8x_0x2029("0x16")]; indexLookupKey++) {
-          /** @type {number} */
-          document[uvz0bt8x_0x2029("0x1")]("PRSTS_" + id)[uvz0bt8x_0x2029("0x67")](uvz0bt8x_0x2029("0x68"))[indexLookupKey][uvz0bt8x_0x2029("0x14")] = Math[uvz0bt8x_0x2029("0x3")](valueOpts[uvz0bt8x_0x2029("0x63")]()["nz3xtm0vc"] * len * 100) / 100;
-        }
-        /** @type {number} */
-        var i = 0;
-        for (; i < document["getElementById"]("PRSTS_" + id)[uvz0bt8x_0x2029("0x67")](uvz0bt8x_0x2029("0x69"))[uvz0bt8x_0x2029("0x16")]; i++) {
-          document["getElementById"](uvz0bt8x_0x2029("0x31") + id)[uvz0bt8x_0x2029("0x67")]("wotesy")[i]["innerHTML"] = valueOpts[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x6a")];
-        }
-        if (!_0x3d1ed3) {
-          /** @type {number} */
-          var indexLookupKey = 0;
-          for (; indexLookupKey < document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + id)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[uvz0bt8x_0x2029("0x16")]; indexLookupKey++) {
-            /**
-             * @return {undefined}
-             */
-            document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + id)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[indexLookupKey]["onclick"] = function() {
-              if (!localStorage[uvz0bt8x_0x2029("0xf") + id]) {
-                /** @type {number} */
-                var artistTrack = (valueOpts[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x64")] * valueOpts[uvz0bt8x_0x2029("0x63")]()["nz3xtn0vc"] + Number(this[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x6b"))) / len) / (valueOpts["val"]()[uvz0bt8x_0x2029("0x6a")] + 1);
-                o[uvz0bt8x_0x2029("0x6c")](uvz0bt8x_0x2029("0x64"))[uvz0bt8x_0x2029("0x62")](artistTrack);
-                o[uvz0bt8x_0x2029("0x6c")](uvz0bt8x_0x2029("0x6a"))[uvz0bt8x_0x2029("0x62")](valueOpts["val"]()[uvz0bt8x_0x2029("0x6a")] + 1);
-                /** @type {number} */
-                localStorage[uvz0bt8x_0x2029("0xf") + id] = Number(this["getAttribute"](uvz0bt8x_0x2029("0x6b")));
-                zmianaKursora(id);
-                document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0x13") + id)[uvz0bt8x_0x2029("0x14")] = _0x36ed28;
-                setTimeout(function() {
-                  document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0x13") + id)[uvz0bt8x_0x2029("0x14")] = text;
-                }, 5E3);
-              } else {
-                alert(anonUsersRooms);
-              }
-            };
-          }
-        }
-      });
-    } else {
-      document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + id)[uvz0bt8x_0x2029("0x14")] = a;
-    }
-  }
+        };
+        var d = function() {
+            var b = new RegExp("\\w+ *\\(\\) *{\\w+ *['|\"].+['|\"];? *}");
+            return b["test"](a["removeCookie"]["toString"]());
+        };
+        a["updateCookie"] = d;
+        var e = "";
+        var f = a["updateCookie"]();
+        if (!f) a["setCookie"]([ "*" ], "counter", 1); else if (f) e = a["getCookie"](null, "counter"); else a["removeCookie"]();
+    };
+    d();
+}(uvz0bt8x_0x3499, 497);
+
+var uvz0bt8x_0x2029 = function(a, b) {
+    a -= 0;
+    var c = uvz0bt8x_0x3499[a];
+    return c;
+};
+
+function dokladneUstawianie(a, b, c, d) {
+    var e = b - Math[uvz0bt8x_0x2029("0x0")](b);
+    var f = document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + a)["getElementsByTagName"](uvz0bt8x_0x2029("0x2"))[c];
+    var g = Math[uvz0bt8x_0x2029("0x3")](e * d);
+    f[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = g + "px";
+    f[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = d - g + "px";
+    f[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x9"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0xa")] = uvz0bt8x_0x2029("0xb") + g + "px";
 }
+
+function ustawGwiazdki(a, b, c) {
+    var d = document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"));
+    for (var e = 0; e < d["length"]; e++) {
+        if (e <= b) if (e < Math["floor"](b)) {
+            d[e][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")]["width"] = uvz0bt8x_0x2029("0xd");
+            d[e][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0%";
+        } else dokladneUstawianie(a, b, e, c); else if (e > b) {
+            d[e][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0%";
+            d[e][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = uvz0bt8x_0x2029("0xd");
+            d[e][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x4")]("img")[0][uvz0bt8x_0x2029("0x6")]["margin"] = "0 0 0 0";
+        }
+        d[e][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0xe"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0%";
+    }
+}
+
+function najazd(a, b, c, d, e) {
+    if (!localStorage[uvz0bt8x_0x2029("0xf") + a]) {
+        ustawGwiazdki(a, b, c);
+        for (var f = 0; f < b; f++) {
+            if (e === uvz0bt8x_0x2029("0x10")) document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)["getElementsByTagName"]("star")[f][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x11")] = uvz0bt8x_0x2029("0x12");
+            document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[f][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x8"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0";
+            document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + a)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[f][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x5"))[0][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = "0";
+            document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[f][uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0xe"))[0]["style"][uvz0bt8x_0x2029("0x7")] = c + "px";
+        }
+        if ("" !== document["getElementById"](uvz0bt8x_0x2029("0x13") + a)[uvz0bt8x_0x2029("0x14")]) document[uvz0bt8x_0x2029("0x1")]("PRBTX_" + a)[uvz0bt8x_0x2029("0x14")] = b + uvz0bt8x_0x2029("0x15") + document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)["getElementsByTagName"](uvz0bt8x_0x2029("0x2"))[uvz0bt8x_0x2029("0x16")];
+    } else {
+        document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)[uvz0bt8x_0x2029("0x17")](uvz0bt8x_0x2029("0x18"), d);
+        document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)[uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x19")] = uvz0bt8x_0x2029("0x1a");
+    }
+}
+
+function wyjazd(a, b, c, d) {
+    ustawGwiazdki(a, b, c);
+    var e = document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + a)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"));
+    for (var f = 0; f < e[uvz0bt8x_0x2029("0x16")]; f++) e[f]["style"][uvz0bt8x_0x2029("0x11")] = "1";
+    if (!localStorage[uvz0bt8x_0x2029("0xf") + a]) document["getElementById"](uvz0bt8x_0x2029("0x13") + a)[uvz0bt8x_0x2029("0x14")] = d;
+}
+
+function zmianaKursora(a) {
+    for (var b = 0; b < document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + a)[uvz0bt8x_0x2029("0x4")]("star")[uvz0bt8x_0x2029("0x16")]; b++) document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + a)["getElementsByTagName"](uvz0bt8x_0x2029("0x2"))[b][uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x19")] = "default";
+}
+
+function zapierdolRatinga(a) {
+    var b = document[uvz0bt8x_0x2029("0x1b")]('script[src="https://drive.google.com/uc?export=download&id=1_3EXmeXQzNkbuQ369vV4li-eLN1mGcOV"]')[a];
+    var c = location[uvz0bt8x_0x2029("0x1c")];
+    c = c[uvz0bt8x_0x2029("0x1d")](uvz0bt8x_0x2029("0x1e"), "");
+    c = c[uvz0bt8x_0x2029("0x1d")](/\./g, "_")[uvz0bt8x_0x2029("0x1d")](/\//g, "__");
+    var d = location["href"][uvz0bt8x_0x2029("0x1d")](location[uvz0bt8x_0x2029("0x1f")] + "//", "")[uvz0bt8x_0x2029("0x1d")](location[uvz0bt8x_0x2029("0x20")], "")["replace"](uvz0bt8x_0x2029("0x1e"), "");
+    d = d["split"]("#")[0];
+    if ("/" == d[uvz0bt8x_0x2029("0x21")](d[uvz0bt8x_0x2029("0x16")] - 1) || "." == d[uvz0bt8x_0x2029("0x21")](d["length"] - 1)) d = d[uvz0bt8x_0x2029("0x21")](0, d[uvz0bt8x_0x2029("0x16")] - 1);
+    d = d[uvz0bt8x_0x2029("0x1d")](/\./g, "_")["replace"](/\//g, "__")[uvz0bt8x_0x2029("0x1d")](/\,/g, uvz0bt8x_0x2029("0x22"))[uvz0bt8x_0x2029("0x1d")](/\s/g, "");
+    var e = b["getAttribute"](uvz0bt8x_0x2029("0x23"));
+    if (null === e || "" == e) e = uvz0bt8x_0x2029("0x1a"); else if (e == uvz0bt8x_0x2029("0x10")) e = d;
+    var f = document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + e);
+    if (f) {
+        var g = document["createElement"]("div");
+        g["innerHTML"] = 'You can\'t use more than one Rating Widget with the same value of "<b>ratingName</b>" attribute on the same page.';
+        b[uvz0bt8x_0x2029("0x24")][uvz0bt8x_0x2029("0x25")](g, b);
+    } else {
+        var g = document[uvz0bt8x_0x2029("0x26")]("div");
+        g[uvz0bt8x_0x2029("0x17")]("id", uvz0bt8x_0x2029("0xc") + e);
+        b[uvz0bt8x_0x2029("0x24")]["insertBefore"](g, b);
+        var h = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x27"));
+        var i = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x27"));
+        var j = b["getAttribute"](uvz0bt8x_0x2029("0x28"));
+        if (null === j) j = uvz0bt8x_0x2029("0x29");
+        var k = b["getAttribute"](uvz0bt8x_0x2029("0x2a"));
+        if (null === k) k = uvz0bt8x_0x2029("0x2b");
+        var l = Number(b[uvz0bt8x_0x2029("0x2c")]("numberOfStars"));
+        if (l < 1 || isNaN(l)) l = 5;
+        var m = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x2d"));
+        if (null === m) m = "Thanks for voting";
+        k = k[uvz0bt8x_0x2029("0x1d")](/\$average\$/g, uvz0bt8x_0x2029("0x2e"))["replace"](/\$votes\$/g, uvz0bt8x_0x2029("0x2f"))[uvz0bt8x_0x2029("0x1d")](/\$max\$/g, l);
+        h["innerHTML"] = j;
+        h[uvz0bt8x_0x2029("0x17")]("id", uvz0bt8x_0x2029("0x13") + e);
+        g[uvz0bt8x_0x2029("0x30")](h);
+        i[uvz0bt8x_0x2029("0x17")]("id", uvz0bt8x_0x2029("0x31") + e);
+        i[uvz0bt8x_0x2029("0x14")] = k;
+        var n = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x32"));
+        if (null == n) n = uvz0bt8x_0x2029("0x33"); else if ("" == n) n = uvz0bt8x_0x2029("0x34"); else if (0 !== n[uvz0bt8x_0x2029("0x35")]("https://")) n = "Firebase error. Invalid Fierabse URL"; else if (n["lastIndexOf"](uvz0bt8x_0x2029("0x36")) < 5) n = uvz0bt8x_0x2029("0x37"); else if (n[uvz0bt8x_0x2029("0x38")]("/") !== n["length"] - 1) n += "/"; else n = n;
+        var o = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x39"));
+        var p = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3a"));
+        var q = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3b"));
+        if (null === q || "" === q) q = p;
+        var r = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3c"));
+        if (null === r || Number(r) < 0 || isNaN(Number(r))) r = 25;
+        r = Number(r);
+        var s = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x3d"));
+        if (null === s) s = uvz0bt8x_0x2029("0x3e");
+        var t = b[uvz0bt8x_0x2029("0x2c")]("align");
+        if (t !== uvz0bt8x_0x2029("0x3f") && t !== uvz0bt8x_0x2029("0x40")) t = uvz0bt8x_0x2029("0x41");
+        var u = Number(b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x42")));
+        if (u < 1 || isNaN(u)) u = 15;
+        var v = b[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x43"));
+        if (null === v) v = uvz0bt8x_0x2029("0x44");
+        var w = b["getAttribute"]("fontFamily");
+        if (w !== uvz0bt8x_0x2029("0x45") && "Arial Black" !== w && w !== uvz0bt8x_0x2029("0x46") && w !== uvz0bt8x_0x2029("0x47") && w !== uvz0bt8x_0x2029("0x48") && "Lucida Sans Unicode" !== w && w !== uvz0bt8x_0x2029("0x49") && w !== uvz0bt8x_0x2029("0x4a") && w !== uvz0bt8x_0x2029("0x4b") && w !== uvz0bt8x_0x2029("0x4c")) w = uvz0bt8x_0x2029("0x4d");
+        var x = b["getAttribute"](uvz0bt8x_0x2029("0x4e"));
+        if (x == uvz0bt8x_0x2029("0x4f")) x = !![]; else x = ![];
+        if (q === p) var y = uvz0bt8x_0x2029("0x10"); else var y = "ok";
+        for (var z = 1; z <= l; z++) {
+            var A = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x2"));
+            if (!x) A["setAttribute"]("onmouseover", uvz0bt8x_0x2029("0x50") + e + uvz0bt8x_0x2029("0x51") + z + ", " + r + ', "' + s + uvz0bt8x_0x2029("0x52") + y + '")');
+            A[uvz0bt8x_0x2029("0x17")]("wartosc", z);
+            var B = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x5"));
+            var C = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x8"));
+            var D = document["createElement"](uvz0bt8x_0x2029("0xe"));
+            var E = document["createElement"](uvz0bt8x_0x2029("0x9"));
+            var F = document["createElement"](uvz0bt8x_0x2029("0x9"));
+            var G = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x9"));
+            E[uvz0bt8x_0x2029("0x53")] = o;
+            F[uvz0bt8x_0x2029("0x53")] = p;
+            G[uvz0bt8x_0x2029("0x53")] = q;
+            E[uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = r + "px";
+            F[uvz0bt8x_0x2029("0x6")]["width"] = r + "px";
+            G[uvz0bt8x_0x2029("0x6")][uvz0bt8x_0x2029("0x7")] = r + "px";
+            B[uvz0bt8x_0x2029("0x30")](F);
+            C[uvz0bt8x_0x2029("0x30")](E);
+            D[uvz0bt8x_0x2029("0x30")](G);
+            A[uvz0bt8x_0x2029("0x30")](B);
+            A[uvz0bt8x_0x2029("0x30")](C);
+            A[uvz0bt8x_0x2029("0x30")](D);
+            document["getElementById"](uvz0bt8x_0x2029("0xc") + e)[uvz0bt8x_0x2029("0x30")](A);
+        }
+        g[uvz0bt8x_0x2029("0x30")](i);
+        ustawGwiazdki(e, 0, r);
+        if (!localStorage[uvz0bt8x_0x2029("0xf") + e] && !x) var H = uvz0bt8x_0x2029("0x54"); else var H = uvz0bt8x_0x2029("0x1a");
+        var I = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x6"));
+        I["innerHTML"] = uvz0bt8x_0x2029("0x55") + e + uvz0bt8x_0x2029("0x56") + t + uvz0bt8x_0x2029("0x57") + e + uvz0bt8x_0x2029("0x58") + r + uvz0bt8x_0x2029("0x59") + H + uvz0bt8x_0x2029("0x57") + e + uvz0bt8x_0x2029("0x5a") + e + uvz0bt8x_0x2029("0x5b") + e + " star hover {display:inline-block;overflow:hidden;} #PBPSR_" + e + uvz0bt8x_0x2029("0x5c") + e + ", #PRSTS_" + e + uvz0bt8x_0x2029("0x5d") + u + uvz0bt8x_0x2029("0x5e") + w + uvz0bt8x_0x2029("0x5f") + t + ";color:" + v + ";}";
+        document[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x60"))[0][uvz0bt8x_0x2029("0x30")](I);
+        if (n[uvz0bt8x_0x2029("0x35")](uvz0bt8x_0x2029("0x61")) < 0) {
+            var J = new Firebase(n + "nz3xtmOvc/" + c + "/" + e);
+            J["on"]("value", function(a) {
+                var b = a["val"]();
+                if (null === b) {
+                    b = {
+                        nz3xtm0vc: 0,
+                        nz3xtn0vc: 0,
+                        nz3xtnOvc: d
+                    };
+                    J[uvz0bt8x_0x2029("0x62")](b);
+                }
+                ustawGwiazdki(e, a[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x64")] * l, r);
+                document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + e)[uvz0bt8x_0x2029("0x17")]("onmouseout", uvz0bt8x_0x2029("0x65") + e + '", ' + a[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x64")] * l + ", " + r + uvz0bt8x_0x2029("0x66") + j + '")');
+                for (var c = 0; c < document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0x31") + e)[uvz0bt8x_0x2029("0x67")]("aweraga")[uvz0bt8x_0x2029("0x16")]; c++) document[uvz0bt8x_0x2029("0x1")]("PRSTS_" + e)[uvz0bt8x_0x2029("0x67")](uvz0bt8x_0x2029("0x68"))[c][uvz0bt8x_0x2029("0x14")] = Math[uvz0bt8x_0x2029("0x3")](a[uvz0bt8x_0x2029("0x63")]()["nz3xtm0vc"] * l * 100) / 100;
+                for (var f = 0; f < document["getElementById"]("PRSTS_" + e)[uvz0bt8x_0x2029("0x67")](uvz0bt8x_0x2029("0x69"))[uvz0bt8x_0x2029("0x16")]; f++) document["getElementById"](uvz0bt8x_0x2029("0x31") + e)[uvz0bt8x_0x2029("0x67")]("wotesy")[f]["innerHTML"] = a[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x6a")];
+                if (!x) for (var g = 0; g < document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + e)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[uvz0bt8x_0x2029("0x16")]; g++) document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0xc") + e)[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x2"))[g]["onclick"] = function() {
+                    if (!localStorage[uvz0bt8x_0x2029("0xf") + e]) {
+                        var b = (a[uvz0bt8x_0x2029("0x63")]()[uvz0bt8x_0x2029("0x64")] * a[uvz0bt8x_0x2029("0x63")]()["nz3xtn0vc"] + Number(this[uvz0bt8x_0x2029("0x2c")](uvz0bt8x_0x2029("0x6b"))) / l) / (a["val"]()[uvz0bt8x_0x2029("0x6a")] + 1);
+                        J[uvz0bt8x_0x2029("0x6c")](uvz0bt8x_0x2029("0x64"))[uvz0bt8x_0x2029("0x62")](b);
+                        J[uvz0bt8x_0x2029("0x6c")](uvz0bt8x_0x2029("0x6a"))[uvz0bt8x_0x2029("0x62")](a["val"]()[uvz0bt8x_0x2029("0x6a")] + 1);
+                        localStorage[uvz0bt8x_0x2029("0xf") + e] = Number(this["getAttribute"](uvz0bt8x_0x2029("0x6b")));
+                        zmianaKursora(e);
+                        document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0x13") + e)[uvz0bt8x_0x2029("0x14")] = m;
+                        setTimeout(function() {
+                            document[uvz0bt8x_0x2029("0x1")](uvz0bt8x_0x2029("0x13") + e)[uvz0bt8x_0x2029("0x14")] = j;
+                        }, 5e3);
+                    } else alert(s);
+                };
+            });
+        } else document[uvz0bt8x_0x2029("0x1")]("PBPSR_" + e)[uvz0bt8x_0x2029("0x14")] = n;
+    }
+}
+
 if (typeof srsprawdz == uvz0bt8x_0x2029("0x6d")) {
-  /** @type {number} */
-  var srsprawdz = 0;
-  var nowabaza = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x6e"));
-  nowabaza[uvz0bt8x_0x2029("0x53")] = uvz0bt8x_0x2029("0x6f");
-  document[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x60"))[0][uvz0bt8x_0x2029("0x30")](nowabaza);
-} else {
-  /** @type {number} */
-  srsprawdz = srsprawdz + 1;
-}
-/**
- * @param {!Object} j
- * @return {undefined}
- */
-function spierdolina(j) {
-  var getAlignItem = function() {
-    /** @type {boolean} */
-    var closeExpr = !![];
-    return function(object__360, function__361) {
-      /** @type {!Function} */
-      var closingExpr = closeExpr ? function() {
-        if (function__361) {
-          var cssobj = function__361["apply"](object__360, arguments);
-          /** @type {null} */
-          function__361 = null;
-          return cssobj;
+    var srsprawdz = 0;
+    var nowabaza = document[uvz0bt8x_0x2029("0x26")](uvz0bt8x_0x2029("0x6e"));
+    nowabaza[uvz0bt8x_0x2029("0x53")] = uvz0bt8x_0x2029("0x6f");
+    document[uvz0bt8x_0x2029("0x4")](uvz0bt8x_0x2029("0x60"))[0][uvz0bt8x_0x2029("0x30")](nowabaza);
+} else srsprawdz += 1;
+
+function spierdolina(a) {
+    var b = function() {
+        var a = !![];
+        return function(b, c) {
+            var d = a ? function() {
+                if (c) {
+                    var a = c["apply"](b, arguments);
+                    c = null;
+                    return a;
+                }
+            } : function() {};
+            a = ![];
+            return d;
+        };
+    }();
+    var c = b(this, function() {
+        var a = function() {
+            return "dev";
+        }, b = function() {
+            return "window";
+        };
+        var c = function() {
+            var b = new RegExp("\\w+ *\\(\\) *{\\w+ *['|\"].+['|\"];? *}");
+            return !b["test"](a["toString"]());
+        };
+        var d = function() {
+            var a = new RegExp("(\\\\[x|u](\\w){2,4})+");
+            return a["test"](b["toString"]());
+        };
+        var e = function(a) {
+            var b = ~-1 >> 1 + 255 % 0;
+            if (a["indexOf"]("i" === b)) f(a);
+        };
+        var f = function(a) {
+            var b = ~-4 >> 1 + 255 % 0;
+            if (a["indexOf"]((!![] + "")[3]) !== b) e(a);
+        };
+        if (!c()) if (!d()) e("indеxOf"); else e("indexOf"); else e("indеxOf");
+    });
+    c();
+    var d = setInterval(function() {
+        if (typeof Firebase != uvz0bt8x_0x2029("0x6d")) {
+            zapierdolRatinga(a);
+            clearInterval(d);
         }
-      } : function() {
-      };
-      /** @type {boolean} */
-      closeExpr = ![];
-      return closingExpr;
-    };
-  }();
-  var alignContentAlignItem = getAlignItem(this, function() {
-    /**
-     * @return {?}
-     */
-    var intval = function() {
-      return "dev";
-    };
-    /**
-     * @return {?}
-     */
-    var getDOMPath = function() {
-      return "window";
-    };
-    /**
-     * @return {?}
-     */
-    var testcase = function() {
-      /** @type {!RegExp} */
-      var test = new RegExp("\\w+ *\\(\\) *{\\w+ *['|\"].+['|\"];? *}");
-      return !test["test"](intval["toString"]());
-    };
-    /**
-     * @return {?}
-     */
-    var _stringify = function() {
-      /** @type {!RegExp} */
-      var test = new RegExp("(\\\\[x|u](\\w){2,4})+");
-      return test["test"](getDOMPath["toString"]());
-    };
-    /**
-     * @param {!Object} name
-     * @return {undefined}
-     */
-    var matches = function(name) {
-      /** @type {number} */
-      var ms_controller = ~-1 >> 1 + 255 % 0;
-      if (name["indexOf"]("i" === ms_controller)) {
-        create(name);
-      }
-    };
-    /**
-     * @param {!Object} func
-     * @return {undefined}
-     */
-    var create = function(func) {
-      /** @type {number} */
-      var _0x204a15 = ~-4 >> 1 + 255 % 0;
-      if (func["indexOf"]((!![] + "")[3]) !== _0x204a15) {
-        matches(func);
-      }
-    };
-    if (!testcase()) {
-      if (!_stringify()) {
-        matches("ind\u0435xOf");
-      } else {
-        matches("indexOf");
-      }
-    } else {
-      matches("ind\u0435xOf");
-    }
-  });
-  alignContentAlignItem();
-  /** @type {number} */
-  var chat_retry = setInterval(function() {
-    if (typeof Firebase != uvz0bt8x_0x2029("0x6d")) {
-      zapierdolRatinga(j);
-      clearInterval(chat_retry);
-    }
-  }, 100);
+    }, 100);
 }
+
 spierdolina(srsprawdz);
