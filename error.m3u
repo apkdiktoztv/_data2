@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Boomerang
-https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/index.m3u8
-#EXTINF:-1,Cine España
-https://usb.bozztv.com/ssh101/laplastikaonline/laplastikaonline/index.m3u8
-#EXTINF:-1,Cine Clásico
-https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/ndex.m3u8
-#EXTINF:-1,CNA  - Inglés
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,Disney Channel - Inglés
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DistroTv - Inglés
-http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1,Hits - Inglés
-http://210.210.155.66/h/h37/index.m3u8
-#EXTINF:-1,NHK - Inglés
-http://210.210.155.66/h/h23/01.m3u8
-#EXTINF:-1,AXN - Inglés
-http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1,15TV Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1,24 Horas
@@ -51,8 +33,10 @@ https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1,Avivamiento
 https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
-#EXTINF:-1,Azteca America (WPSJ)
+#EXTINF:-1,Azteca America
 https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,AXN - Inglés
+http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1,Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1,BHtv
@@ -65,6 +49,8 @@ http://btvboliviatv.srfms.com:6568/live/livestream/chunklist.m3u8
 http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
 #EXTINF:-1,Bonao TV Canal 12
 http://ss1.domint.net:2226/btv_str/bonao/chunklist.m3u8
+#EXTINF:-1,Boomerang
+https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/index.m3u8
 #EXTINF:-1,Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,Cali TV
@@ -155,12 +141,18 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 #EXTINF:-1,Cinevision Canal 19
 http://cinevision01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1,Cine Clásico
+https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/ndex.m3u8
+#EXTINF:-1,Cine España
+https://usb.bozztv.com/ssh101/laplastikaonline/laplastikaonline/index.m3u8
 #EXTINF:-1,Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1,CL3
 http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8
 #EXTINF:-1,CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,CNA  - Inglés
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,Color Vision 9
 https://ss5.domint.net:3018/cvh_str/colorvisionhd/master.m3u8
 #EXTINF:-1,Comunion TV
@@ -191,8 +183,12 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,DIGITAL VISION 63
 http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+#EXTINF:-1,Disney Channel - Inglés
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1,DistroTv - Inglés
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1,Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1,Divinity
@@ -225,24 +221,6 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 #EXTINF:-1,El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?GrupoTopIptv
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:-1,El Pingüino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
 #EXTINF:-1,Elche 7TV
 https://streaming.elche7tv.es/hls/canal1.m3u8
 #EXTINF:-1,Elim TV
@@ -287,6 +265,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 #EXTINF:-1,Hamaika Telebista
 http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,Hits - Inglés
+http://210.210.155.66/h/h37/index.m3u8
 #EXTINF:-1,Holvoet TV
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:-1,Holvoet TV
@@ -393,6 +373,8 @@ http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 http://198.1.117.5:1935/live/livestream/chunklist.m3u8
 #EXTINF:-1,NEXtv
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,NHK - Inglés
+http://210.210.155.66/h/h23/01.m3u8
 #EXTINF:-1,Ntv Canal
 https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
 #EXTINF:-1,Onda Madrid
