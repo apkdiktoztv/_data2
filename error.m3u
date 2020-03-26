@@ -127,8 +127,6 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 http://common01.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1,Canal Sur Flamenco
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
-#EXTINF:-1,Canal Sur Flamenco
-https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,Canal Sur La Banda
 http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
 #EXTINF:-1,Canal Sur Turismo
