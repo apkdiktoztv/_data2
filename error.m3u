@@ -257,30 +257,18 @@ http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 http://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1,Romana TV Canal 42
 http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1,RPC
-http://174.138.118.252/live/canal13stream_src.m3u8
 #EXTINF:-1,RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1,RTN Neuquén
-http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
-#EXTINF:-1,RTN Neuquén
-http://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1,RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1,RTPA Asturias
 https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8?fluxustv.m3u8
 #EXTINF:-1,RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1,RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
 #EXTINF:-1,RTS Ecuador
 http://173.212.247.99/hls/tvec3.m3u8
 #EXTINF:-1,RTVCE
 http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
-#EXTINF:-1,RTVCE
-http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:-1,RTVE
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Sercano TV
@@ -289,10 +277,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w33013793
 https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
 #EXTINF:-1,Si TV
 http://st2.worldkast.com/8030/8030/playlist.m3u8
-#EXTINF:-1,Si TV
-http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
-#EXTINF:-1,Si TV
-https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist.m3u8
 #EXTINF:-1,Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,Super TV 55 Santiago
@@ -305,10 +289,6 @@ http://173.236.71.62:1935/canal48/c48.sdp/chunklist_w892064858.m3u8
 http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1,Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
-#EXTINF:-1,Tele Aruba Channel 13
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
-#EXTINF:-1,Tele Aruba Channel 23
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist_w569753524.m3u8
 #EXTINF:-1,Teleantillas Canal 2
 http://ss1.domint.net:2126/ta2_str/teleantillas/master.m3u8
 #EXTINF:-1,Telearanda
@@ -323,26 +303,12 @@ https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:-1,Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1,Teleceiba Canal 7
-http://bit.ly/2NLhkKX
-#EXTINF:-1,Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8?fluxustv.m3u8
-#EXTINF:-1,Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-1,TELEFORMULA
-http://bit.ly/2Le41S2
 #EXTINF:-1,TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1,Telefuturo Canal 23
-http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 #EXTINF:-1,Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1,Telemar Campeche TV
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-#EXTINF:-1,Telemar Campeche TV
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-#EXTINF:-1,Telemax
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:-1,Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1,Telemusica
@@ -355,82 +321,28 @@ http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8?fluxustv.m3u8
 https://ss1.domint.net:3310/tra_str/canal45/master.m3u8
 #EXTINF:-1,TeleSafor
 http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:-1,TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1,Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1,TELESUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,Teletrak
 http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
-#EXTINF:-1,Telever Canal 12
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
 #EXTINF:-1,Televigo
 http://5.189.181.203:1935/gcm4/gcm4/chunklist.m3u8
 #EXTINF:-1,Televisio Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8
 #EXTINF:-1,Televisión de Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w2108596902_b1500000.m3u8
-#EXTINF:-1,Televisión de Guinea Ecuatorial
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
-#EXTINF:-1,TEN Canal 10
-http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_b1848000.m3u8
-#EXTINF:-1,TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
-#EXTINF:-1,TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1,TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
-#EXTINF:-1,TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-#EXTINF:-1,TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1,Tierramia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
 #EXTINF:-1,TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,Top Latino TV
-http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
-#EXTINF:-1,Top Latino TV
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1,Top Latino TV
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:-1,Top Latino TV
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-#EXTINF:-1,Top Latino TV
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
-#EXTINF:-1,Top Latino TV
-https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/chunks.m3u8
-#EXTINF:-1,TPA 7
-https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1,Trebujena TV
 https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
-#EXTINF:-1,Trece
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 #EXTINF:-1,TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 #EXTINF:-1,TV Cosmos
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 #EXTINF:-1,TV Maná Córdoba
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1,TV Maná Córdoba
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1,TV Maná Córdoba
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,TV Montaña Canal 10
-http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
 #EXTINF:-1,TV Municipal Cordoba
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
 #EXTINF:-1,TV Plata Canal 3
@@ -439,8 +351,6 @@ https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 #EXTINF:-1,TV Sur Canal 14
 http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w765213564.m3u8
-#EXTINF:-1,TV Sur Canal 14
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:-1,TV4 La Vall
 https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
 #EXTINF:-1,TV5 Linares
@@ -449,59 +359,29 @@ http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 http://5.189.181.203:1935/tves/tves/chunklist_w1468535123.m3u8
 #EXTINF:-1,TVG
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
-#EXTINF:-1,TVG
-http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TVG 2
 http://events2-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVG América
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1,TVG Cultural
 http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TVG Cultural
-http://cultural-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,TVG Evento 1
-http://events1-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVG Infantil
 http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TVG Infantil
-http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVG Momento
 http://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TVG Momento
-http://momentog-crtvg.flumotion.com:80/playlist.m3u8
 #EXTINF:-1,TVG Musigal
 http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TVG Musigal
-http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,TVGE Int. (New!)
+#EXTINF:-1,TVGE Int.
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,TVO
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 #EXTINF:-1,TVPerú HD
 https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,TVR
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1,TVR
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,TVR
-https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1,Télam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
-#EXTINF:-1,UAO Play
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
-#EXTINF:-1,UCSG
-http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
-#EXTINF:-1,Unitel
-http://136.243.3.70:1935/Unitel/Unitel/chunklist.m3u8
-#EXTINF:-1,Unitel
-http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8
-#EXTINF:-1,Uno TV
-http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1,Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1,Wow (El Salvador)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,Xtremo Channel Canal 22
 http://ss1.domint.net:2120/xtr_str/xtremo/master.m3u8
-#EXTINF:-1,YUNA VISION 10
-http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
