@@ -11,10 +11,6 @@ http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-1,9 MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
-#EXTINF:-1,A Punt
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
-#EXTINF:-1,Acento TV
-http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1,ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1,Alacanti TV
@@ -33,26 +29,14 @@ https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1,Avivamiento
 https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
-#EXTINF:-1,Azteca America
-https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
 #EXTINF:-1,AXN - Inglés
 http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1,Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1,BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
-#EXTINF:-1,Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:-1,Bolivia TV Deportes 7.2
-http://btvboliviatv.srfms.com:6568/live/livestream/chunklist.m3u8
-#EXTINF:-1,Bolivision
-http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
 #EXTINF:-1,Bonao TV Canal 12
 http://ss1.domint.net:2226/btv_str/bonao/chunklist.m3u8
 #EXTINF:-1,Boomerang
 https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/index.m3u8
-#EXTINF:-1,Cadena Elite
-https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8
 #EXTINF:-1,Campus TV
@@ -71,32 +55,16 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1,Canal 25 Barbastro
 http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1,Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,Canal 33 Madrid
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1,Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
-#EXTINF:-1,Canal 5
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1,Canal 56
 https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8
 #EXTINF:-1,Canal 8 Teleenvigado
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1,CANAL 9 LITORAL
-http://panel.dattalive.com:1935/8250/8250/chunklist_w1259692347.m3u8
-#EXTINF:-1,Canal 9 Salta
-http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
 #EXTINF:-1,Canal Amé 47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1,Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 #EXTINF:-1,Canal d
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
-#EXTINF:-1,Canal del Sol 65
-http://canaldelsol01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1,Canal M
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
 #EXTINF:-1,Canal Mundo+
@@ -117,16 +85,12 @@ https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
 http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
 #EXTINF:-1,Canal Sur Turismo
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
-#EXTINF:-1,Canal Taronja Osona
-http://ventdelnord.tv:8080/taronja/directe.m3u8?fluxustv.m3u8
 #EXTINF:-1,Canalcosta TV
 http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
 #EXTINF:-1,Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 #EXTINF:-1,Carivision
 http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
-#EXTINF:-1,Católica TV
-http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 #EXTINF:-1,CCI Channel
 http://stream.innovandote.com:1935/cci/cci/playlist.m3u8
 #EXTINF:-1,CDM International
@@ -137,18 +101,12 @@ http://205.164.56.130:1935/marcos536/marcos536/chunklist_w191773249.m3u8
 http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
 #EXTINF:-1,Chile 5 FTA
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
-#EXTINF:-1,Cholusat Sur 36
-http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
-#EXTINF:-1,Cinevision Canal 19
-http://cinevision01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1,Cine Clásico
 https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/ndex.m3u8
 #EXTINF:-1,Cine España
 https://usb.bozztv.com/ssh101/laplastikaonline/laplastikaonline/index.m3u8
 #EXTINF:-1,Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-#EXTINF:-1,CL3
-http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8
 #EXTINF:-1,CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNA  - Inglés
@@ -167,20 +125,10 @@ https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
 #EXTINF:-1,CPEtv
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
-#EXTINF:-1,CPEtv
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 #EXTINF:-1,CTC TV Cusco
 http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-#EXTINF:-1,Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?fluxustv.m3u8
-#EXTINF:-1,Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1,Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1,Cultura 24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1,De Película
-https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,DIGITAL VISION 63
 http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
 #EXTINF:-1,Disney Channel - Inglés
@@ -189,60 +137,26 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1,DistroTv - Inglés
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1,Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-#EXTINF:-1,Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-#EXTINF:-1,Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1,DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1,DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Ebenezer TV
 http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
-#EXTINF:-1,Ebenezer TV
-http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8
-#EXTINF:-1,Ebenezer TV
-http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/chunklist_w1071930476_b1228800.m3u8
 #EXTINF:-1,Ecija Comarca TV
 http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w1202791317.m3u8?fluxustv.m3u8
 #EXTINF:-1,EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:-1,EITB
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8
-#EXTINF:-1,EITB
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1,EITB
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1,El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 #EXTINF:-1,El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:-1,Elche 7TV
-https://streaming.elche7tv.es/hls/canal1.m3u8
-#EXTINF:-1,Elim TV
-http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
 #EXTINF:-1,EmolTv
 https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
-#EXTINF:-1,Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:-1,Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1,Estepona TV
 https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8?fluxustv.m3u8
 #EXTINF:-1,ESTV
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
 #EXTINF:-1,ETB 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1,ETB 1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
 #EXTINF:-1,ETB 2
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8
-#EXTINF:-1,ETB 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
 #EXTINF:-1,EWTN
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
 #EXTINF:-1,Extrema TV
