@@ -1,0 +1,833 @@
+#EXTM3U 
+#EXTINF: -1 group-title="Ungrouped", +24
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8
+#EXTINF: -1 group-title="Ungrouped", +24
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", +tdp
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", 101TV Málaga
+https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF: -1 group-title="Ungrouped", 15TV Sabinas
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", 24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+#EXTINF: -1 group-title="Ungrouped", 24/7 Canal de Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", 24/7 Retro TV EN
+https://hlsdpi-cdn-rtx01.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", 24h
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF: -1 group-title="Ungrouped", 24h Catalunya
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", 25 TV
+https://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+#EXTINF: -1 group-title="Ungrouped", 28 Kanala
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", 30A Music EN
+https://30a-tv.com/music.m3u8
+#EXTINF: -1 group-title="Ungrouped", 324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", 33
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF: -1 group-title="Ungrouped", 7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/024/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", 8 Cádiz
+https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", 8 La Janda
+http://185.210.20.13:8080/0.m3u8
+#EXTINF: -1 group-title="Ungrouped", 9 MULTIVISION HD
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+#EXTINF: -1 group-title="Ungrouped", À Punt
+https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF: -1 group-title="Ungrouped", ADN 40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF: -1 group-title="Ungrouped", Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", American Horrors Movies EN
+http://170.178.189.70:1935/live/Stream1/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Amordiscos TV
+https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
+#EXTINF: -1 group-title="Ungrouped", Antares TV SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Antena 3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Arirang TV EN
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Atresplayer 3
+https://livestartover-i.akamaized.net/eventos37/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", ATV
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", ATV Perú
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", ATV Web
+http://videos.rtva.ad:1935/live/web/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Avivamiento
+https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Be Mad HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF: -1 group-title="Ungrouped", Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", BFM TV FR
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF: -1 group-title="Ungrouped", Bloomberg Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF: -1 group-title="Ungrouped", Boing HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF: -1 group-title="Ungrouped", Bon Dia TV
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Bonao TV Canal 12
+http://ss1.domint.net:2226/btv_str/bonao/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", BUZZR TV EN
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+#EXTINF: -1 group-title="Ungrouped", C33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cáceres Tevé
+https://ce2019100818001.dnssw.net/hls/ceres.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cachipum TV
+http://23.236.180.26/11580409776/live/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cadena Elite Granada
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8
+#EXTINF: -1 group-title="Ungrouped", California Music Channel EN
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Campiña Sur TV
+https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 10
+https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 10 Cordoba
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 10 Empordà
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", CANAL 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 2
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 2 San Antonio
+http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 25 Barbastro
+http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 25 Barbastro TV
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 4
+http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 45 TV
+https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal 56
+https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Amé 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal d
+https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Doñana
+https://secure.todostreaming.es/live/disvision-alm.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Málaga
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Parlamento
+https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal San Roque
+https://common01.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Sur Flamenco
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Sur La Banda
+http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal Sur Turismo
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", CanalCosta
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cancionero TV
+http://89.140.99.41/hls/cancionero.m3u8
+#EXTINF: -1 group-title="Ungrouped", Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+#EXTINF: -1 group-title="Ungrouped", CBN
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", CBS News EN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", CCI Channel
+http://stream.innovandote.com:1935/cci/cci/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", CCMA Exclusiu 1
+https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", CCMA Exclusiu 2
+https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", CDM International
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w815796812.m3u8
+#EXTINF: -1 group-title="Ungrouped", CDM TV
+http://205.164.56.130:1935/marcos536/marcos536/chunklist_w191773249.m3u8
+#EXTINF: -1 group-title="Ungrouped", Ceuta TV
+https://secure.todostreaming.es/live/anguloce-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF: -1 group-title="Ungrouped", CGTN
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF: -1 group-title="Ungrouped", CGTN Documentary EN
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF: -1 group-title="Ungrouped", CGTN News EN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF: -1 group-title="Ungrouped", Chacra TV
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", Chile 5 FTA
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cine Clásico
+https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/ndex.m3u8
+#EXTINF: -1 group-title="Ungrouped", Classic Arts Showcase EN
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF: -1 group-title="Ungrouped", CMM
+https://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF: -1 group-title="Ungrouped", CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", CNA  - Inglés
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF: -1 group-title="Ungrouped", Color Vision 9
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Condavisión
+http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Conexion Abierta
+http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", Contivision Constitucion
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Costa Noroeste TV
+https://limited3.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", CostadelSol TV
+https://secure.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
+#EXTINF: -1 group-title="Ungrouped", CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cuatro SD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF: -1 group-title="Ungrouped", Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF: -1 group-title="Ungrouped", Dabl EN
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+#EXTINF: -1 group-title="Ungrouped", DanceStar TV EN
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Déjate de Historias TV
+https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
+#EXTINF: -1 group-title="Ungrouped", Del 40 al 1
+https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Diez TV
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Disney Channel - Inglés
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Ungrouped", Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", DistroTv - Inglés
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF: -1 group-title="Ungrouped", Ditty TV EN
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF: -1 group-title="Ungrouped",Divinity SD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Animation EN
+https://www.djing.com/tv/animation.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Avicii EN
+https://www.djing.com/tv/session_avicii.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Dancefloor EN
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Electro Rock EN
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing French touch EN
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Hedonist EN
+https://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Hits EN
+https://www.djing.com/tv/hits.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Karaoke EN
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Live EN
+https://www.djing.com/tv/live.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Summer Vibes EN
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Underground EN
+https://www.djing.com/tv/underground.m3u8
+#EXTINF: -1 group-title="Ungrouped", DJing Wild EDM EN
+https://www.djing.com/tv/session_wild-edm.m3u8
+#EXTINF: -1 group-title="Ungrouped", DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", DW EN
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Ebenezer TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+#EXTINF: -1 group-title="Ungrouped", Ecija Comarca TV
+http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w1202791317.m3u8
+#EXTINF: -1 group-title="Ungrouped", EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF: -1 group-title="Ungrouped", El Correo de Andalucía
+https://elcorreotv.todostreaming.es/live/elcorreotv-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", El Sembrador TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", El Toro TV
+https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Elche 7 TV
+http://154.60.248.32/hls/canal1.m3u8
+#EXTINF: -1 group-title="Ungrouped", EmolTv
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Energy HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1  group-title="Ungrouped",Energy SD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+#EXTINF: -1 group-title="Ungrouped", Erlo Telebista
+https://5940924978228.streamlock.net/8159/8159/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", EsAsturiasTV
+https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Esport 3
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", Estepona TV
+https://5b38ce71f1f00.streamlock.net/8122/8122/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", ESTV
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", ETB 1
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
+#EXTINF: -1 group-title="Ungrouped", ETB 2
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", ETB SAT
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", EuropaPress TV
+https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", EWTN
+http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
+#EXTINF: -1 group-title="Ungrouped", Faro Vision
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF: -1 group-title="Ungrouped", FDF SD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF: -1 group-title="Ungrouped", Fibwi
+https://directo.fibwi.com/stream/stream_fibwiLIVE/fibwiLIVEtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", Fight Time
+https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
+#EXTINF: -1 group-title="Ungrouped", France 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF: -1 group-title="Ungrouped", France 24 EN
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF: -1 group-title="Ungrouped", France 24 FR
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF: -1 group-title="Ungrouped", Frecuencia Musical TV
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Fuengirola TV
+https://secure.todostreaming.es/live/nerja-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Galicia TV América
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+#EXTINF: -1 group-title="Ungrouped", Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", GITB Goierri Irrati Telebista
+https://5940924978228.streamlock.net/8155/8155/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Goiena
+https://zuzenean.goienamedia.eus:8443/telebista.m3u8
+#EXTINF: -1 group-title="Ungrouped", Grup Televisió
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Guada TV
+http://95.216.150.122:1935/gcm2/gcm2/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Hamaika Telebista
+https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF: -1 group-title="Ungrouped", Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Arabic
+https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Baladas
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Blues
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Chill Out
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Classic
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Dance
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Folk
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Gym
+https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Hits
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Jazz
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Kids
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Latin
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Relax
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Remember
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", HqM Spanish
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Huesca TV
+https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", Ibiza Global TV EN
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF: -1 group-title="Ungrouped", Imás TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Interalmería TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF: -1 group-title="Ungrouped", Intercomarcal TV
+https://str.intercomarcal.com/hls/tvixa.m3u8
+#EXTINF: -1 group-title="Ungrouped", ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Avila
+https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Bierzo
+https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Burgos
+https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Leon
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Mediterráneo
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Palencia
+https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Salamanca
+https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Segovia
+https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Soria
+https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Valladolid
+https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La 8 Zamora
+https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+#EXTINF: -1 group-title="Ungrouped", La Mega Mundial
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", La Moncloa (Ministros)
+https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
+#EXTINF: -1 group-title="Ungrouped", La Moncloa (Presidente)
+https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
+#EXTINF: -1 group-title="Ungrouped", La Sexta
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", La Tele TV
+https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8
+#EXTINF: -1 group-title="Ungrouped", Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", LaOtra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF: -1 group-title="Ungrouped", Levante TV
+https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Locomotion TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", m2o IT
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", M95 Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Manzanares10TV
+https://secure.todostreaming.es/live/manzanares-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Mar TV
+http://k4.usastreams.com/martv/martv/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Marbella TV
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Más TV Huelva
+http://5.189.181.203:1935/gcm8/gcm8/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Melody Channel
+https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF: -1 group-title="Ungrouped", Mijas Comunicación
+https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Mírame TV
+https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF: -1 group-title="Ungrouped", MONTE MARIA | SD (MX)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Montilla Televisión
+https://stream.intnova.com/SVorigin/smil:119575.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF: -1 group-title="Ungrouped", MTV (Latinoamérica)
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Multimedios
+http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+#EXTINF: -1 group-title="Ungrouped", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF: -1 group-title="Ungrouped", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF: -1 group-title="Ungrouped", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF: -1 group-title="Ungrouped", Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", NASA TV ISS Views
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", NASA TV Public
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", NEXtv
+http://198.1.117.5:1935/live/livestream/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", NHK World Japan EN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF: -1 group-title="Ungrouped", Nius HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
+#EXTINF: -1 group-title="Ungrouped", Noroeste Televisión
+https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", NORTEvisión
+http://amaru.dyndns.org:8835/0.m3u8
+#EXTINF: -1 group-title="Ungrouped", Oizmendi Telebista
+https://5940924978228.streamlock.net/8161/8161/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Onda Madrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", ONDA TV CANAL 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF: -1 group-title="Ungrouped", Onda Valencia
+https://5b38ce71f1f00.streamlock.net/8276/8276/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", OndaMezquita TV
+https://593fa17dec176.streamlock.net/mezquita/mezquita/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", OnlyMotors EN
+https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF: -1 group-title="Ungrouped", Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF: -1 group-title="Ungrouped", Popular TV Cantabria
+https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Popular TV Murcia
+https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Portalfoxmix
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", PTV Cordoba
+http://149.91.98.146:1935/cordoba/stream/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", PTV Málaga
+http://149.91.98.146:1935/live/stream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Q'hubo
+http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
+#EXTINF: -1 group-title="Ungrouped", Quinta TV
+https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
+#EXTINF: -1 group-title="Ungrouped", Radio 3
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Radio 5
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/rne_c102_lv3_aosv4_gl0.m3u8
+#EXTINF: -1 group-title="Ungrouped", Radio El Conquistador
+http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Radio Gigante
+http://85.214.130.95:8080/live/stream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Radio Maxima 94.9 FM SB
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Radio Sanborja
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Rai News 24 IT
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Rathergood 00s EN
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodnoughties.m3u8?chname=kapanglivetv-playout-rathergoodnoughties&pub=288
+#EXTINF: -1 group-title="Ungrouped", Rathergood Dance Classics EN
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergooddanceclassics.m3u8?chname=kapanglivetv-playout-rathergooddanceclassics&pub=288
+#EXTINF: -1 group-title="Ungrouped", Rathergood Dance EN
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergooddance.m3u8?chname=kapanglivetv-playout-rathergooddance&pub=288
+#EXTINF: -1 group-title="Ungrouped", Rathergood Hits EN
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodhits.m3u8?chname=kapanglivetv-playout-rathergoodhits&pub=288
+#EXTINF: -1 group-title="Ungrouped", Rathergood LoL EN
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodanimals.m3u8?chname=kapanglivetv-playout-rathergoodanimals&pub=288
+#EXTINF: -1 group-title="Ungrouped", Rathergood Movies
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodmovies.m3u8?chname=kapanglivetv-playout-rathergoodmovies&pub=288
+#EXTINF: -1 group-title="Ungrouped", Rathergood Radio EN
+https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Red ADVenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Red Uno
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
+#EXTINF: -1 group-title="Ungrouped", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Riba-roja TV
+https://cdn01.yowi.tv/MHU18E7A9D/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", RiberaTV
+http://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Romana TV Canal 42
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF: -1 group-title="Ungrouped", RT
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF: -1 group-title="Ungrouped", RT Documentary Channel EN
+https://rt-doc-gd.secure2.footprint.net/1101.m3u8
+#EXTINF: -1 group-title="Ungrouped", RT News EN
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF: -1 group-title="Ungrouped", RT News EN
+https://rt-uk-gd.secure2.footprint.net/1106.m3u8
+#EXTINF: -1 group-title="Ungrouped", RT News EN
+https://rt-usa-gd.secure2.footprint.net/1105.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTPA Asturias
+https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTS Ecuador
+http://173.212.247.99/hls/tvec3.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTV Diocesana Toledo
+https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTV Mogán
+https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTV Vida
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", RTVE
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF: -1 group-title="Ungrouped", SalTV
+http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
+#EXTINF: -1 group-title="Ungrouped", Sertv
+https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
+#EXTINF: -1 group-title="Ungrouped", Si TV
+http://st2.worldkast.com/8030/8030/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Sky News EN
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF: -1 group-title="Ungrouped", Solidaria TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF: -1 group-title="Ungrouped", Sophia TV
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Super TV 55 Santiago
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Super3
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", Suram
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+#EXTINF: -1 group-title="Ungrouped", Suyapa TV
+http://173.236.71.62:1935/canal48/c48.sdp/chunklist_w892064858.m3u8
+#EXTINF: -1 group-title="Ungrouped", Taroteame TV
+http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TEF
+https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Tele Aruba
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
+#EXTINF: -1 group-title="Ungrouped", Tele Sagunto
+https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teleantillas Canal 2
+http://ss1.domint.net:2126/ta2_str/teleantillas/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telearanda
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TeleBendicion
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TeleBilbao
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telecinco SD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teledeporte GEO
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
+#EXTINF: -1 group-title="Ungrouped", TeleDonosti
+https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TELEFORMULA
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teleganés
+https://cdn01.yowi.tv/P18V9163O7/live-1500.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telemar Campeche TV
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF: -1 group-title="Ungrouped", Telemúsica
+https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teleonuba
+http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teleradio America 45
+https://ss1.domint.net:3310/tra_str/canal45/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TeleRibera
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF: -1 group-title="Ungrouped", TeleSafor
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Telesur Madrid
+https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Teletrak
+http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", Televigo
+http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Televisió de Sant Martí
+https://usb.bozztv.com/ssh101/amsctvsantmarti/amsctvsantmarti/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Televisión Aranda
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Televisión Canaria
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Televisión de Guinea Ecuatorial
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w2108596902_b1500000.m3u8
+#EXTINF: -1 group-title="Ungrouped", Tenerife 2030 TV
+http://livestream.iter.es:9876/tdt/tdt.m3u8
+#EXTINF: -1 group-title="Ungrouped", TeVe4
+https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
+#EXTINF: -1 group-title="Ungrouped", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF: -1 group-title="Ungrouped", Top Latino TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TPA7
+https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+#EXTINF: -1 group-title="Ungrouped", Trebujena TV
+http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TRECE
+https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV 4 Vall Uxó
+https://common01.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Benavente
+https://59b782181fb20.streamlock.net:455/gcm5/gcm5/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Centro Andalucía
+https://5b59c7a47236a.streamlock.net/TVCENTRO/TVCENTRO/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Maná Córdoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Perú Noticias
+https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Plata Canal 3
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+#EXTINF: -1 group-title="Ungrouped", TV Vega Baja
+https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV3 Càmeres
+https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV3CAT
+https://directes-tv-int.ccma.cat/int/ngrp:tvc_web/playlist_DVR.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV4 La Vall
+https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV5 Linares
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV5Monde FR
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", tvA
+https://ns3063900.ip-5-39-65.eu/hls/tvaxa.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVes
+http://5.189.181.203:1935/tves/tves/chunklist_w1468535123.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG 2
+http://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG América HD
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG América SD
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG Cultura
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG Evento 5
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG Infantil
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG Momentos G
+https://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVG Musigal
+https://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVGE 1
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVM Córdoba
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", UD Las Palmas TV
+https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Une Vinalopó
+http://78.41.83.88:8880/hls/unesd.m3u8
+#EXTINF: -1 group-title="Ungrouped", United Nations TV EN
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Univers TV
+https://5c21f7ec1999d.streamlock.net/8092/8092/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Urola Telebista
+https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", V2Beat TV EN
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Venezolana de Televisión
+https://593fa17dec176.streamlock.net:455/vtvweb4/vtvweb4/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", Vintage Music Radio
+https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Ungrouped", Vintage Music TV
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-vintagemusictv.m3u8?chname=kapanglivetv-playout-vintagemusictv&pub=288
+#EXTINF: -1 group-title="Ungrouped", Visión 6 TV
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", Wow (El Salvador)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF: -1 group-title="Ungrouped", Zee Mundo
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8
