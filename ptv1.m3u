@@ -53,6 +53,8 @@ http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 #EXTINF: -1 group-title="Ungrouped", Antofagasta TV
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
+#EXTINF: -1 group-title="Ungrouped", Arena 1 HD
+http://hrv.00387.info/Arena1HDHR/index.m3u8?token=test
 #EXTINF: -1 group-title="Ungrouped", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF: -1 group-title="Ungrouped", Arirang TV - EN
